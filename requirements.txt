@@ -1,0 +1,2 @@
+# Tkinter and sqlite3 are included with standard Python.
+# No third-party packages are required for the current desktop version.
